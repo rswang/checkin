@@ -1,5 +1,5 @@
 // Change this to your URL!
-var ATTENDEE_SAVE_URL = 'submit.php';
+var ATTENDEE_SAVE_URL = 'index.html';
 
 var get_athena = function() {
     // "Parses" out the athena username by combining all letter elements.
